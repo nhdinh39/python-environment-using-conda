@@ -53,7 +53,7 @@
 ```
 
 
-**6. List all enviroment**
+**6. List all enviroments**
 ```
 	conda env list
 ```
